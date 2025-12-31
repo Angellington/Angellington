@@ -17,7 +17,7 @@ Now, my focus is Web Development, at inusitate creations and fun.
 ## My Statistics
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Angellington&theme=tokyonight)](https://github.com/Angelligton)<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Angellington&theme=dark)](https://git.io/streak-stats)<br>
 
 </div>  
 
